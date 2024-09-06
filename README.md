@@ -22,9 +22,9 @@ https://webpack.js.org/guides/asset-management/
   npm install --save-dev webpack-merge
 
   npm install -D webpack webpack-cli
-    babel-loader @babel/core @babel/preset-env
-    style-loader css-loader html-loader
-    html-webpack-plugin
-    webpack-dev-server
-    webpack-merge
+  npm install -D babel-loader @babel/core @babel/preset-env
+  npm install -D style-loader css-loader html-loader
+  npm install -D html-webpack-plugin
+  npm install -D webpack-dev-server
+  npm install -D webpack-merge
 ```
